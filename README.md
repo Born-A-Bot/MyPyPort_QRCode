@@ -19,3 +19,4 @@ print('image saved')
 ```
 
 
+<img width="410" height="410" alt="git_py" src="https://github.com/user-attachments/assets/daca163c-ad06-429d-9c3f-0c07f75afd28" />
