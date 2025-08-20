@@ -3,28 +3,25 @@ dev demo python project
 
 <html>
   <h2># PyPort</h2>
-<h3>Serena's Developer Python Portfolio </h3>
+<h3>Serena's Developer Python Portfolio 
                                           
 <body>
 
 '''
-#import library for qrcode
-import qrcode
+<p>#import library for qrcode</p>
+<p>import qrcode</p>
 
-#create variable and source - url
-img = qrcode.make('https://github.com/Born-A-Bot/My-PyPort-QRCode')
+<p>#create variable and source - url</p>
+<p>img = qrcode.make('https://github.com/Born-A-Bot/My-PyPort-QRCode')</p>
 
-#save the image and assign a name to the file
-img.save("git_py.png")
+<p>#save the image and assign a name to the file</p>
+<p>img.save("git_py.png")</p>
 
-#generate message when task complete, qrcode generated and saved
-print('image saved')
+<p>#generate message when task complete, qrcode generated and saved</p>
+<p>print('image saved')</p>
 '''
-
-
-  
 </body>
-
+</html>
 
   
 </html>
