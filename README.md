@@ -1,6 +1,7 @@
 # My-PyPort-QRCode
 dev demo python project
 
+'''
 #import library for qrcode
 import qrcode
 
@@ -12,3 +13,4 @@ img.save("git_py.png")
 
 #generate message when task complete, qrcode generated and saved
 print('image saved')
+'''
