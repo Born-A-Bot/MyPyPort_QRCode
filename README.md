@@ -2,6 +2,7 @@
 Follow Serena's journey - from noob to pro. This repo contains a sample of my
 python projects. 
 
+
 ```
 #import library for qrcode
 import qrcode
