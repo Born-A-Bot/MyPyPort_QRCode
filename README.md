@@ -33,10 +33,9 @@ if "Location" in response.headers:
 else:
     print("No redirect decteced.")
 
-
-
 ```
 
+<img width="410" height="410" alt="git_py" src="https://github.com/user-attachments/assets/6a7773ff-8253-4d5e-9fa0-33c0d43de212" />
 
 
 ```
