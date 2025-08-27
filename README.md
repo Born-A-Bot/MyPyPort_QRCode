@@ -60,7 +60,8 @@ else:
 
 
 ```
-![Uploading qr_with_logo_v3.png…]()
+
+<img width="490" height="490" alt="qr_with_logo_v3" src="https://github.com/user-attachments/assets/11786c2c-98f3-4440-9a86-47c724db9a82" />
 
 
 ```
